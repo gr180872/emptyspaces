@@ -1,0 +1,11 @@
+/* alignment and styling of key elements */
+
+body {font-family: Arial, Helvetica;}
+
+h1 {text-align: center; font-size: 150%; color: #ff7722;}
+
+p {text-indent: 20px; text-align: justify;}
+
+a {text-decoration: none; color: #333300;}
+a:hover {font-weight:bold; color: #ff0000;}
+a:visited {color: #333300;}
